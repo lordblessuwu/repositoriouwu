@@ -1,10 +1,126 @@
+
 <html>
-<head><title>mi primer programa uwu</title>
-<body bgcolor=" #ea899">
-<b><u><i>
-<font size="25">
-<font color="white">
-<font face="forte">
-Roger Adan Tuch Tzoy
+<head><title>Mi CV</title></head>
+<body background="https://wallpaperaccess.com/full/972510.jpg">
+<table bgcolor="white" border="1">
+<tr>
+<th>
+Datos personales
+</th>
+<tr>
+<td></td>
+<td></td>
+<td rowspan="8"><center><img src="foto.jpg" width="150"></center></td>
+</tr>
+</tr>
+<tr>
+<td>Nombres y Apellidos:</td>
+<td>Roger Adán Tuch Tzoy</td>
+</tr>
+<tr>
+<td>Lugar y Fecha de nacimiento:</td>
+<td>Hospital rosevelt , 16 de enero del 2006</td>
+</tr>
+<tr>
+<td>Estado civil:</td>
+<td>Soltero</td>
+</tr>
+<tr>
+<td>Direccion:</td>
+<td>blvd. Sur 13-95 zona 8 de mixco</td>
+</tr>
+<tr>
+<td>Codigo postal -- Ciudad:</td>
+<td>01057 mixco(Guatemala)</td>
+</tr>
+<tr>
+<td>Telefono Movil</td>
+<td>42378820</td>
+</tr>
+<tr>
+<td>Email</td>
+<td> rogertuch03b@gmail.com</td>
+</tr>
+<tr>
+<th>Formacion Academica</th>
+</tr>
+<tr>
+<td>Fechas:</td>
+<td>2023/2028</td>
+</tr>
+<tr>
+<td>Estudios:</td>
+<td> sin especificar</td>
+</tr>
+<tr>
+<td>Centro:</td>
+<td>San Carlos de Guatemala (Universidad)</td>
+</tr>
+<tr>
+<td>Titulo:</td>
+<td>Medico Forence en Investigacion Criminal</td>
+</tr>
+<tr>
+<td>Fechas</td>
+<td>2022/2023</td>
+</tr>
+<tr>
+<td>Estudios:</td>
+<td>Bachillerato en Computacion</td>
+</tr>
+<tr>
+<td>Centro:</td>
+<td>Instituto Profesional de Computacion (Colegio)</td>
+</tr>
+<tr>
+<td>Titulo</td>
+<td>Bachiller</td>
+</tr>
+<tr>
+<th>Formacion Complementaria</th>
+</tr>
+<tr>
+<td>Fechas</td>
+<td>Desde el 18/03/2022 al 20/06/2022</td>
+</tr>
+<tr>
+<td>Curso:</td>
+<td>Mantenimiento de Computadoras</td>
+</tr>
+<tr>
+<td>No. de Horas:</td>
+<td>150</td>
+</tr>
+<tr>
+<th>Conocimientos informaticos</th>
+</tr>
+<tr>
+<td colspan="2">Conocimiento de aplicaciones ofimaticas(procesadores de texto, hojas de calculo,<br>bases de datos,
+presentaciones graficas)<br>Nivel: alto</td>
+</tr>
+<tr>
+<th>Conocimiento de Idiomas</th>
+</tr>
+<tr>
+<td>Idioma:</td>
+<td>Ingles, ruso</td>
+</tr>
+<tr>
+<td>Nivel:</td>
+<td colspan="2">A2 Usuario Independiente Intermedio.FCE(Firsr Certificate in English)</td>
+</tr>
+<tr>
+<th>Otros Datos de Interes</th>
+</tr>
+<tr>
+<td>Carnet de Conducir B y vehiculo propio no <br>Disponibilidad para  geografica: poca </td>
+</tr>
+<tr>
+<th>Fecha</th>
+</tr>
+<tr>
+<td>10 de enero de 2024</td>
+</tr>
+</table>
 </body>
 </html>
